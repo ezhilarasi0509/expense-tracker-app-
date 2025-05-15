@@ -35,14 +35,7 @@
 
 **Screenshots:**
 
-![image](https://github.com/Mothiswar24/Expense-Tracker-App/assets/98322449/6aa2f016-26ac-4895-9b0e-adaac8f28d6d)
 
-
-![image](https://github.com/Mothiswar24/Expense-Tracker-App/assets/98322449/38846ecc-7d70-421a-ac51-3aaf99292be4)
-
-![image](https://github.com/Mothiswar24/Expense-Tracker-App/assets/98322449/e52c785a-4a31-4376-a132-f4c215511e3f)
-
-![image](https://github.com/Mothiswar24/Expense-Tracker-App/assets/98322449/b8ae2eb9-ab40-4ea8-866b-92a49784b735)
 
 **Working application link:**
 https://expense-tracker-client-ochre.vercel.app/
