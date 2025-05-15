@@ -1,0 +1,46 @@
+/* Flex layout for columns */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -15px; 
+}
+
+.col-md-4 {
+    flex: 0 0 calc(50% - 70px);
+    max-width: calc(50% - 70px);
+    padding: 15px;
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-body {
+    padding: 10px;
+    margin: 10px;
+}
+
+h4 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    margin-left: 25px;
+}
+
+h5 {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.progress {
+    margin-bottom: 15px;
+    font-size: 25px;
+}
+
+.card-header
+{ font-size: 25px;
+    margin-bottom: 10px;
+
+}

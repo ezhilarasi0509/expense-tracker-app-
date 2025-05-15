@@ -1,0 +1,90 @@
+.login-page {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f0f2f5;
+}
+
+.login-container {
+  display: flex;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 20px;
+  overflow: hidden;
+  width: 800px;
+  max-width: 100%;
+}
+
+.login-img {
+  flex: 1;
+  display: flex;
+}
+
+.login-img img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.login-form-container {
+  flex: 1;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.login-title {
+  margin-bottom: 10px;
+  font-size: 24px;
+  color: #333;
+}
+
+.login-subtitle {
+  margin-bottom: 20px;
+  font-size: 20px;
+  color: #333;
+  font-weight: 500;
+}
+
+.login-form {
+  width: 100%;
+}
+
+.login-form .ant-form-item-label label {
+  font-weight: bold;
+  color: #333;
+}
+
+.login-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #000;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.login-button:hover {
+  background-color: #333;
+}
+
+.terms-text, .signup-text {
+  margin-top: 20px;
+  color: #777;
+  font-size: 14px;
+}
+
+.terms-text a, .signup-text a {
+  color: #333;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.terms-text a:hover, .signup-text a:hover {
+  text-decoration: none;
+}
