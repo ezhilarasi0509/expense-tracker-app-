@@ -33,7 +33,7 @@
   4. Edit or delete existing expenses as needed.
   5. Use the filter options to view expenses within a specific date range.
 
-**Screenshots:**
+
 
 
 
